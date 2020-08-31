@@ -1,0 +1,2 @@
+## Understanding Pure React
+In order to understand how React runs in the browser, and in the long run be more efficient with the library, it is vital to first understand pure React, that is React without JSX.
